@@ -41,7 +41,7 @@ RESTORE_ENCODINGS = {
     "shift_jis", "euc-jp", "iso-2022-jp",
     "euc-kr",
     "windows-1252", "iso-8859-1",
-    "windows-1251",
+    "windows-1251", "windows-1250",
 }
 
 ENCODING_ALIASES = {
@@ -60,7 +60,7 @@ STRUCTURAL_TRUSTED = {
     "gbk", "gb18030",
     "big5", "big5hkscs",
     "shiftjis", "eucjp", "euckr", "iso2022jp",
-    "windows1251",
+    "windows1251", "windows-1250",
 }
 
 
